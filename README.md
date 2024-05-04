@@ -1,1 +1,1 @@
-# deeplearning_assigments
+# deeplearning_assignments

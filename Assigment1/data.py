@@ -70,7 +70,7 @@ filename = [
 ]
 
 def download_mnist():
-    base_url = "http://yann.lecun.com/exdb/mnist/"
+    base_url = "https://peterbloem.nl/files/mnist/" # "http://yann.lecun.com/exdb/mnist/"
     for name in filename:
         print("Downloading "+name[1]+"...")
         request.urlretrieve(base_url+name[1], name[1])

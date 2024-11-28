@@ -2,3 +2,4 @@ __pycache__/
 *.gz
 *.pkl
 .DS_Store
+Assignment2/vugrad/vugrad.egg-info/
